@@ -4,8 +4,6 @@
 
 This project predicts machining cost and cycle time using scraped CNC part data enriched with geometric and manufacturing features.
 
----
-
 ## 🔍 Approach Summary
 
 1. **Scraping**:
