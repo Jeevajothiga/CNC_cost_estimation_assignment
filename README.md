@@ -1,4 +1,3 @@
-# CNC_cost_estimation_assignment
 # CNC Cost Estimation – Data Science Intern Assignment
 
 ## 📌 Objective
@@ -38,7 +37,6 @@ This project predicts machining cost and cycle time using scraped CNC part data 
 | Model | MAE | RMSE |
 |-------|-----|------|
 | Random Forest | 3.52 | 4.64 |
-| Linear Regression | ~ | ~ (excluded due to feature leakage and corrected later) |
 
 - **Random Forest** outperformed Linear Regression
 - **Volume** and **Feature Count** were top predictors
